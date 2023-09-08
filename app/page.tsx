@@ -11,10 +11,12 @@ export default function Page() {
       <p className='leading-7 [&:not(:first-child)]:mt-6'>
         Describe your thoughts and it will generate for you on the fly.
       </p>
+      <p>-------------------------------------------------------------------------</p>
       <div>
         <p className='text-xl' >
           Sample images
         </p>
+        <p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
         <div className = ' grid grid-cols-3 gap-6'>
         <img className='   mx-16 h-72 mb-6 cursor-pointer' src= '/1692369079441.png' />
         <img className='  mx-16 h-72 mt-10 mb-6 cursor-pointer' src= '/1692629883452.png' />
